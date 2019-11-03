@@ -1,2 +1,2 @@
 # purecss
-CSS3+HTML5
+Pure CSS3+HTML5 super simple snippets
